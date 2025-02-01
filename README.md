@@ -8,31 +8,39 @@
 
 ## 📂 프로젝트 목록
 
-### 📌 **1. View, Widget, Layout (Project #4)**
+### 📌 **1. Kotlin 프로그래밍 기초 (Project #1)**
+- **기능:** Kotlin 기본 문법 학습 (변수, 함수, 조건문, 반복문, 컬렉션, 형 변환)
+- **사용 기술:** `val/var`, `fun()`, `if-else`, `when`, `for`, `while`, `toString()`, `Enum class`
+
+### 📌 **2. Kotlin 프로그래밍 중급 (Project #2)**
+- **기능:** 예외처리, 클래스 및 상속, 람다함수, 고차함수, 확장함수, 오버로딩, 오버라이딩
+- **사용 기술:** `try-catch`, `throw`, `class`, `inheritance`, `lambda`, `high-order function`, `extension function`, `override`
+  
+### 📌 **1. View, Widget, Layout (Project #3)**
 - **기능:** 버튼 릴레이, 이미지 갤러리, 동적 UI 변경, 간단한 계산기
 - **사용 기술:** `View`, `Button`, `ImageView`, `TextView`, `ConstraintLayout`
 
-### 📌 **2. Jetpack Library (Project #5)**
+### 📌 **2. Jetpack Library (Project #4)**
 - **기능:** `Fragment`, `RecyclerView`, `ViewPager2`, `DrawerLayout`을 활용한 UI 구성
 - **사용 기술:** `androidx.fragment`, `RecyclerView.Adapter`, `FragmentStateAdapter`
 
-### 📌 **3. Activity & Intent (Project #6)**
+### 📌 **3. Activity & Intent (Project #5)**
 - **기능:** `Intent`를 사용한 액티비티 간 데이터 전달 및 결과 반환
 - **사용 기술:** `startActivityForResult()`, `putExtra()/getExtra()`, `setResult()`
 
-### 📌 **4. 네트워크 & HTTP 통신 (Project #7)**
+### 📌 **4. 네트워크 & HTTP 통신 (Project #6)**
 - **기능:** `Volley` 및 `Retrofit`을 활용한 HTTP 요청, 파일 다운로드, 이미지 로드
 - **사용 기술:** `RequestQueue`, `DownloadManager`, `Glide`
 
-### 📌 **5. Firebase & Google Maps (Project #9)**
+### 📌 **5. Firebase & Google Maps (Project #7)**
 - **기능:** Firestore 데이터 저장 및 실시간 동기화, Google Maps API 활용
 - **사용 기술:** `Firebase Firestore`, `GoogleMap`, `FusedLocationProviderClient`
 
-### 📌 **6. 내부 데이터 관리 (Project #10)**
+### 📌 **6. 내부 데이터 관리 (Project #8)**
 - **기능:** SQLite 데이터베이스, 내부/외부 파일 저장, SharedPreferences 활용
 - **사용 기술:** `SQLiteDatabase`, `FileOutputStream`, `getSharedPreferences()`
 
-### 📌 **7. 머신러닝 - TensorFlow Lite (Project #11)**
+### 📌 **7. 머신러닝 - TensorFlow Lite (Project #9)**
 - **기능:** MNIST 숫자 분류 모델 학습, TensorFlow Lite 변환 및 Android 적용
 - **사용 기술:** `TensorFlow Lite`, `Interpreter`, `ByteBuffer`
 
