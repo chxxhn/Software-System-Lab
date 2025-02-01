@@ -1,4 +1,4 @@
-# SoftwareSystemLab 🚀
+# Software-System-Lab 🚀
 
 ## 📌 프로젝트 개요
 이 레포지토리는 **안드로이드 개발 실습 프로젝트 모음**입니다.  
