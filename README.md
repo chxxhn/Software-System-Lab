@@ -62,8 +62,7 @@
   - `FileOutputStream`, `FileInputStream` → 내부 저장소 파일 읽기/쓰기
   - `getExternalFilesDir()` → 외부 저장소 파일 관리
  
----
 
-## 📜 폴더 구조
+
 
 
