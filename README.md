@@ -1,4 +1,4 @@
-# Android Development - Full Course Repository 🚀
+# SoftwareSystemLab 🚀
 
 ## 📌 프로젝트 개요
 이 레포지토리는 **안드로이드 개발 실습 프로젝트 모음**입니다.  
@@ -38,9 +38,32 @@
 
 ---
 
-## 🔧 프로젝트 실행 방법
+## 🛠 사용된 기술 스택
+- **언어:** Kotlin
+- **UI 구성:** 
+  - `View`, `Fragment`, `RecyclerView`, `ViewPager2`
+  - `DrawerLayout`, `ConstraintLayout`, `GridLayout`
+- **네트워크:** 
+  - `Volley` → HTTP 요청 및 응답 처리
+  - `Retrofit` → REST API 통신 및 JSON 데이터 변환
+  - `DownloadManager` → 파일 다운로드 기능
+- **데이터베이스:** 
+  - `SQLiteDatabase` → 로컬 데이터 저장 및 쿼리 실행
+  - `SharedPreferences` → 앱 설정값 저장
+  - `Firebase Firestore` → 클라우드 데이터 저장 및 실시간 동기화
+- **지도 및 위치:** 
+  - `Google Maps API` → 지도 및 위치 정보 활용
+  - `FusedLocationProviderClient` → 현재 위치 추적 및 업데이트
+- **머신러닝:** 
+  - `TensorFlow Lite` → 경량화된 ML 모델 실행
+  - `Interpreter` → TFLite 모델 로드 및 추론 수행
+  - `ByteBuffer` → 이미지 데이터를 모델 입력으로 변환
+- **파일 관리:** 
+  - `FileOutputStream`, `FileInputStream` → 내부 저장소 파일 읽기/쓰기
+  - `getExternalFilesDir()` → 외부 저장소 파일 관리
+ 
+---
 
-1️⃣ **레포지토리 클론하기**
-```bash
-git clone https://github.com/your-username/android-full-course.git
-cd android-full-course
+## 📜 폴더 구조
+
+
